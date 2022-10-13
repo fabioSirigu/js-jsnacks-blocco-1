@@ -19,8 +19,8 @@ for (let i = 0; i < nameInvited.length; i++) {
     if (element===userName){
         nameOk = 'ok puoi entrare!';
     }
-    console.log(nameOk);
 }  */
+
 
 // con while
 let i = 0;
@@ -30,6 +30,6 @@ while ( i < nameInvited.length) {
             nameOk = 'ok puoi entrare!';
         }
         i++
-        console.log(nameOk)
 }
-
+      
+console.log(nameOk)
